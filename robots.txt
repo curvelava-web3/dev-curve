@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  https://accslot88.defzone.net/sitemap.xml
